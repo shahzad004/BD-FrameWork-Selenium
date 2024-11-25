@@ -1,0 +1,32 @@
+2024-11-19 16:15:29 INFO  ConfigManager:49 - Configuration loaded for environment DEV
+2024-11-19 16:15:46 INFO  BaseTest:32 - Started test with URL https://www.facebook.com/
+2024-11-19 16:15:46 INFO  BaseTest:14 - Verifying that the browser is opened and we are navigating to correct URL.
+2024-11-20 17:11:39 INFO  ConfigManager:49 - Configuration loaded for environment DEV
+2024-11-20 17:11:49 INFO  BaseTest:32 - Started test with URL https://www.facebook.com/
+2024-11-20 17:11:50 INFO  BaseTest:16 - Verifying that the browser is opened and we are navigating to correct URL.
+2024-11-20 17:12:46 INFO  ConfigManager:49 - Configuration loaded for environment DEV
+2024-11-20 17:12:52 INFO  BaseTest:32 - Started test with URL https://www.facebook.com/
+2024-11-20 17:12:52 INFO  BaseTest:16 - Verifying that the browser is opened and we are navigating to correct URL.
+2024-11-20 17:20:32 INFO  ConfigManager:49 - Configuration loaded for environment DEV
+2024-11-20 17:20:39 INFO  BaseTest:32 - Started test with URL https://www.facebook.com/
+2024-11-20 17:20:39 INFO  BaseTest:20 - Verifying that the browser is opened and we are navigating to correct URL.
+2024-11-20 17:22:08 INFO  ConfigManager:49 - Configuration loaded for environment DEV
+2024-11-20 17:22:14 INFO  BaseTest:32 - Started test with URL https://www.facebook.com/
+2024-11-20 17:22:14 INFO  BaseTest:20 - Verifying that the browser is opened and we are navigating to correct URL.
+2024-11-20 17:42:05 INFO  ConfigManager:49 - Configuration loaded for environment DEV
+2024-11-20 17:42:14 INFO  BaseTest:32 - Started test with URL https://www.facebook.com/
+2024-11-20 17:42:14 INFO  BaseTest:25 - Verifying that the browser is opened and we are navigating to correct URL.
+2024-11-20 18:01:07 INFO  ConfigManager:49 - Configuration loaded for environment DEV
+2024-11-20 18:01:18 INFO  BaseTest:32 - Started test with URL https://www.facebook.com/
+2024-11-20 18:01:18 INFO  BaseTest:25 - Verifying that the browser is opened and we are navigating to correct URL.
+2024-11-20 18:13:31 INFO  ConfigManager:49 - Configuration loaded for environment DEV
+2024-11-20 18:13:54 INFO  BaseTest:32 - Started test with URL https://www.facebook.com/
+2024-11-20 18:13:55 INFO  BaseTest:26 - Verifying that the browser is opened and we are navigating to correct URL.
+2024-11-20 18:14:05 INFO  BaseTest:32 - Entering Sign in Details
+2024-11-20 18:14:06 INFO  BaseTest:34 - Done
+2024-11-21 16:35:31 INFO  ConfigManager:49 - Configuration loaded for environment DEV
+2024-11-21 16:35:41 INFO  BaseTest:27 - it intailize
+2024-11-21 16:35:44 INFO  BaseTest:33 - Started test with URL https://www.facebook.com/
+2024-11-21 16:35:44 INFO  BaseTest:27 - Verifying that the browser is opened and we are navigating to correct URL.
+2024-11-21 16:35:46 INFO  BaseTest:33 - Entering Sign in Details
+2024-11-21 16:35:47 INFO  BaseTest:35 - Done
