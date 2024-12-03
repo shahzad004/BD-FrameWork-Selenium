@@ -30,3 +30,13 @@
 2024-11-21 16:35:44 INFO  BaseTest:27 - Verifying that the browser is opened and we are navigating to correct URL.
 2024-11-21 16:35:46 INFO  BaseTest:33 - Entering Sign in Details
 2024-11-21 16:35:47 INFO  BaseTest:35 - Done
+2024-11-25 17:47:26 INFO  ConfigManager:49 - Configuration loaded for environment DEV
+2024-11-25 17:47:44 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 14:49:48 INFO  ConfigManager:49 - Configuration loaded for environment DEV
+2024-11-26 14:50:05 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 14:51:41 INFO  ConfigManager:49 - Configuration loaded for environment DEV
+2024-11-26 14:51:50 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 14:54:23 INFO  ConfigManager:49 - Configuration loaded for environment DEV
+2024-11-26 14:54:33 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 14:57:58 INFO  ConfigManager:49 - Configuration loaded for environment DEV
+2024-11-26 14:58:08 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/

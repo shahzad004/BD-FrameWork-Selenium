@@ -19,4 +19,6 @@ Feature: Amazon search functionality
     Then   The user enteres word "<search>"
     Then The user enter the search button
     Examples:
-      | search   |      | Java oca |
+      | search |  | Java oca |
+
+
