@@ -67,3 +67,5 @@
 2024-12-03 16:00:10 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
 2024-12-03 16:03:47 INFO  ConfigManager:49 - Configuration loaded for environment DEV
 2024-12-03 16:03:56 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 21:05:57 INFO  ConfigManager:49 - Configuration loaded for environment DEV
+2024-12-03 21:06:11 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
