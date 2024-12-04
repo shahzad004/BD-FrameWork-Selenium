@@ -17,7 +17,7 @@ public class BaseTest {
     protected static final Logger logger = LogManager.getLogger(BaseTest.class);
 
     /**
-     * This method runs before each test method. It initializes the WebDriver, opens the browser,
+     * This method runs before each test method. It initializes the WebDriver, opens the br owser,
      * and navigates to the base URL from the configuration.
      */
     @BeforeMethod
